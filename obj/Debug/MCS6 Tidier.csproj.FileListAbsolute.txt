@@ -1,0 +1,17 @@
+n:\visual studio 2013\Projects\MCS6 Tidier\MCS6 Tidier\bin\Debug\MCS6 Tidier.exe.config
+n:\visual studio 2013\Projects\MCS6 Tidier\MCS6 Tidier\bin\Debug\MCS6 Tidier.exe
+n:\visual studio 2013\Projects\MCS6 Tidier\MCS6 Tidier\bin\Debug\MCS6 Tidier.pdb
+n:\visual studio 2013\Projects\MCS6 Tidier\MCS6 Tidier\bin\Debug\Algenta.Colectica.Model.Ddi.dll
+n:\visual studio 2013\Projects\MCS6 Tidier\MCS6 Tidier\bin\Debug\Algenta.Colectica.Model.dll
+n:\visual studio 2013\Projects\MCS6 Tidier\MCS6 Tidier\bin\Debug\Algenta.Colectica.Repository.Client.dll
+n:\visual studio 2013\Projects\MCS6 Tidier\MCS6 Tidier\bin\Debug\Algenta.Colectica.ViewModel.dll
+n:\visual studio 2013\Projects\MCS6 Tidier\MCS6 Tidier\bin\Debug\log4net.dll
+n:\visual studio 2013\Projects\MCS6 Tidier\MCS6 Tidier\bin\Debug\Newtonsoft.Json.dll
+n:\visual studio 2013\Projects\MCS6 Tidier\MCS6 Tidier\bin\Debug\QuickGraph.dll
+n:\visual studio 2013\Projects\MCS6 Tidier\MCS6 Tidier\bin\Debug\Algenta.Colectica.Model.xml
+n:\visual studio 2013\Projects\MCS6 Tidier\MCS6 Tidier\bin\Debug\Algenta.Colectica.Model.Ddi.xml
+n:\visual studio 2013\Projects\MCS6 Tidier\MCS6 Tidier\bin\Debug\Algenta.Colectica.Repository.Client.xml
+n:\visual studio 2013\Projects\MCS6 Tidier\MCS6 Tidier\bin\Debug\Algenta.Colectica.ViewModel.xml
+n:\visual studio 2013\Projects\MCS6 Tidier\MCS6 Tidier\obj\Debug\MCS6 Tidier.csprojResolveAssemblyReference.cache
+n:\visual studio 2013\Projects\MCS6 Tidier\MCS6 Tidier\obj\Debug\MCS6 Tidier.exe
+n:\visual studio 2013\Projects\MCS6 Tidier\MCS6 Tidier\obj\Debug\MCS6 Tidier.pdb
