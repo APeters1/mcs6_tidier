@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
-    <StartArguments>C:\temp\MCS6_ACCTUD_2.xml</StartArguments>
+    <StartArguments>C:\DDI\NS8MAINV014_EXPORT_FROM_MDD_4.xml</StartArguments>
   </PropertyGroup>
 </Project>
